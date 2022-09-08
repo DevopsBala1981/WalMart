@@ -1,1 +1,2 @@
-Deployment the application is very important.
+Python is used in data science field.
+Deployment of application is very important.
